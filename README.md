@@ -25,13 +25,11 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Monitoring-and-Securing-the-DFI-Environment.git
-Navigate to the project directory:
+   git clone https://github.com/slakshya2/Securing-the-Perimeter.git
 
+2.Navigate to the project directory:
 cd Monitoring-and-Securing-the-DFI-Environment
-Install the required dependencies (if applicable):
 
-pip install -r requirements.txt
 Usage
 This project includes various scripts and documentation to assist in monitoring and securing the DFI environment. Follow the instructions in the respective scripts to perform security assessments, configure firewalls, and analyze system logs.
 
@@ -58,8 +56,3 @@ Patch Management: Develop a script to automate the installation of critical and 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, please create an issue or submit a pull request. Ensure that your contributions align with the project's goals and enhance the security measures of the DFI environment.
 
-License
-This project is licensed under the MIT License - see the LICENSE(opens in a new tab) file for details.
-
-
-Feel free to adjust any sections to better reflect your actual findings, recommendations, and project structure. If you have any specific details or additional sections you'd like to include, just let me know! Good luck with your project!

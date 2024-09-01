@@ -5,7 +5,6 @@ The "Monitoring and Securing the DFI Environment" project focuses on enhancing t
 
 ## Table of Contents
 - [Project Goals](#project-goals)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Findings and Recommendations](#findings-and-recommendations)
 - [Automation Opportunities](#automation-opportunities)
@@ -18,16 +17,6 @@ The primary goals of this project include:
 - Recommending unnecessary roles and services to be removed or disabled.
 - Implementing encryption methods for data in transit.
 - Exploring automation opportunities to improve security management.
-
-## Installation
-To set up the project environment, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/slakshya2/Securing-the-Perimeter.git
-
-2.Navigate to the project directory:
-cd Monitoring-and-Securing-the-DFI-Environment
 
 ## Usage
 This project includes various scripts and documentation to assist in monitoring and securing the DFI environment. Follow the instructions in the respective scripts to perform security assessments, configure firewalls, and analyze system logs.
